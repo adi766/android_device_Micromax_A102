@@ -176,13 +176,7 @@ $(call inherit-product, frameworks/native/build/phone-hdpi-512-dalvik-heap.mk)
 # FM Radio
 PRODUCT_PACKAGES += \
     FMRadio \
-    libfmcust \
-    libfmjni \
-    libfmmt6620 \
-    libfmmt6627 \
-    libfmmt6628 \
-    libfmmt6630 \
-    libmtkplayer
+    libfmjni
 
 # Set default player to AwesomePlayer
 PRODUCT_PROPERTY_OVERRIDES += \
