@@ -18,15 +18,11 @@
 * Microphone
 * Audio
 * Sensors
+* FM Radio
 * GPS
 * Tethering (Wifi, Bluetooth and USB)
 * Etc.
 
-# Not working:-
-* FM Radio
-
 # Issues:-
-* Stock Camera Can't capture pictures.
-* Video recording doesn't works in stock camera.
-
+* Stock Camera Can't capture pictures and record video.
 
